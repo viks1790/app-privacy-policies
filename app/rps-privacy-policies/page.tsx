@@ -76,7 +76,7 @@ export default function RpsPrivacyPolicy() {
             <p className="mb-2">If you have any questions about this Privacy Policy, you can contact us at:</p>
             <div className="mt-2">
               <p>Email: <a href="mailto:vjoshi.dev@gmail.com" className="text-blue-600 hover:underline dark:text-blue-400">vjoshi.dev@gmail.com</a></p>
-              <p>Developer Name: Vikrant Joshi</p>
+              <p>Developer Name: Vikrant D Joshi</p>
             </div>
           </section>
         </div>

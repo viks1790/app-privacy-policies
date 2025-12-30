@@ -42,6 +42,18 @@ export default function Home() {
               View the privacy policy for the offline MyNotes app.
             </p>
           </Link>
+
+          <Link 
+            href="/kiddogoals"
+            className="group block rounded-lg border border-zinc-200 p-6 transition-colors hover:bg-zinc-50 dark:border-zinc-800 dark:hover:bg-zinc-900"
+          >
+            <h2 className="text-xl font-semibold mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400">
+              Privacy Policy - KiddoGoals &rarr;
+            </h2>
+            <p className="text-zinc-600 dark:text-zinc-400">
+              View the privacy policy for the KiddoGoals app.
+            </p>
+          </Link>
         </div>
       </main>
     </div>
